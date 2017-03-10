@@ -1,1 +1,1 @@
-This is my first git project in Linux.
+Simple Linux/Github test.
