@@ -1,4 +1,4 @@
 Simple Linux/Github test.
-6/12/2017
-Time: 10:57AM CST
+6/13/2017
+Time: 8:57AM CST
 From Windows.
